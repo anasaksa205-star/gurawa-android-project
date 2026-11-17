@@ -1,0 +1,6 @@
+{
+  "appId": "org.gurawa.woreda",
+  "appName": "Gurawa Woreda",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
